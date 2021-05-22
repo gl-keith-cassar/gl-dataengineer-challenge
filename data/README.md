@@ -4,7 +4,7 @@ There are 2 files compressed in here:
   * dt (activity date)
   * profileId (site id)
   * medium (channel being used to contact the targeted audience)
-  * sessions (clicks)
+  * sessions (sessions)
 * f_event_sessions
   * dt (activity date)
   * profileId (site id)
