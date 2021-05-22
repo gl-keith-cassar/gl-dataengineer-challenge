@@ -9,8 +9,8 @@ There are 2 files compressed in here:
   * dt (activity date)
   * profileId (site id)
   * medium (channel being used to contact the targeted audience)
-  * event_category
-  * landing_pagepath
-  * country
-  * sessions
+  * event_category (Typically the object that was interacted with (e.g. 'Video'))
+  * landing_pagepath (ignore this field)
+  * country (name)
+  * sessions (clicks)
   * users
